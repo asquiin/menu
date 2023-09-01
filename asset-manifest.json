@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/menu/static/css/main.af2e297c.css",
+    "main.js": "/menu/static/js/main.35d47eb7.js",
+    "static/media/juice.jpg": "/menu/static/media/juice.5a87d2509b94983b7424.jpg",
+    "static/media/greek.jpg": "/menu/static/media/greek.22aaad54df346598f020.jpg",
+    "static/media/avocado.jpg": "/menu/static/media/avocado.4eefe6def05458a60d16.jpg",
+    "static/media/carbonara.jpg": "/menu/static/media/carbonara.88f9bed7f17a8f6a4d47.jpg",
+    "static/media/salmon.jpg": "/menu/static/media/salmon.47f7fee4192ce506ceaa.jpg",
+    "static/media/strawberry.jpg": "/menu/static/media/strawberry.ca3030a52566bb0af476.jpg",
+    "static/media/creamy.jpg": "/menu/static/media/creamy.eba638fe759c85d0e6aa.jpg",
+    "static/media/caesar.jpg": "/menu/static/media/caesar.0be73e56db8385a1f14d.jpg",
+    "static/media/alfredo.jpg": "/menu/static/media/alfredo.120d59bfb2234bf08e95.jpg",
+    "static/media/tomato.jpg": "/menu/static/media/tomato.68a2fdf481dd5355f5d2.jpg",
+    "static/media/water.jpg": "/menu/static/media/water.feb422894c9ea5ffb94c.jpg",
+    "static/media/bolognese.jpg": "/menu/static/media/bolognese.7be36268f5e3c9bc7337.jpg",
+    "static/media/lemonade.jpg": "/menu/static/media/lemonade.b7bd71bf3410fc06e060.jpg",
+    "static/media/tea.jpg": "/menu/static/media/tea.a2e0c51d2e5ac030991c.jpg",
+    "static/media/coffee.jpg": "/menu/static/media/coffee.21ef1dcf6fd6c9d4ac45.jpg",
+    "index.html": "/menu/index.html",
+    "main.af2e297c.css.map": "/menu/static/css/main.af2e297c.css.map",
+    "main.35d47eb7.js.map": "/menu/static/js/main.35d47eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2e297c.css",
+    "static/js/main.35d47eb7.js"
+  ]
+}
